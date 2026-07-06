@@ -1,0 +1,9 @@
+# Core dependencies
+cryptography>=41.0
+
+# Post-quantum crypto (optional but strongly recommended)
+# liboqs-python>=0.10  # Uncomment after: pip install liboqs-python
+
+# Development / testing
+pytest>=7.0
+pytest-cov
